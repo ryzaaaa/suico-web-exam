@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4b0101;
+    text-align: center;
+}
+header {
+    background-color: #970101;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+nav {
+    background-color: #970101;
+    padding: 10px;
+}
+nav a {
+    color: rgb(255, 255, 255);
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.2);
+    margin-bottom: 20px; 
+}
+#about {
+    margin-top: 20px; 
+}
+button {
+    background-color: #00ff3c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: #970101;
+}
+footer {
+    background-color: #960303;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#email-message {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+}
